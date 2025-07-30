@@ -13,15 +13,13 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /statuspage
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://drive.google.com/u/0/drive-viewer/AKGpihZzySBn2EAUYYGEqNa_ItVaGiEx5YjYrwCsEvrTFyx7kbUsc4steMQQT1TJmNhkbWUqKBJ8me64Ca1vXPYxDKGXHqnCrDV7b38=s2560
   name: Locaal AI / Contents Pal
-  introTitle: "Contents Pal is the leading AI-first contents claims processing platform for restoration and insurance adjustment"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Contents Pal - the leading AI contents claims processing platform"
+  introMessage: [Contents Pal](https://contentspal.com) helps your teams create fast and accurate content inventories and valuation reports using simple apps and AI agents.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
