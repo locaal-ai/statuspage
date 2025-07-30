@@ -19,8 +19,10 @@ status-website:
   introMessage: [Contents Pal](https://contentspal.com) helps your teams create fast and accurate content inventories and valuation reports using simple apps and AI agents.
   publish: true
   navbar:
-    title: Status
-    href: /
+    - title: Status
+      href: /
+    - title: Contents Pal
+      href: https://contentspal.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
