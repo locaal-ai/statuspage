@@ -13,14 +13,14 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /statuspage
-  logoUrl: https://drive.google.com/u/0/drive-viewer/AKGpihZzySBn2EAUYYGEqNa_ItVaGiEx5YjYrwCsEvrTFyx7kbUsc4steMQQT1TJmNhkbWUqKBJ8me64Ca1vXPYxDKGXHqnCrDV7b38=s2560
+  logoUrl: https://ff5c539ca455496a36e02da3597b9629bd0de10cbee6198fd2ae71c-apidata.googleusercontent.com/download/storage/v1/b/contentspal-public-access/o/contents-pal-512.png?jk=AXbWWmmmHE3UZ7puVw0jtoDp6Z3RgzdbG3_NDF7fsZtcFxVFbm4fIvdEHd5HQ_zLdAeJ52FUWW57YhdPJlTejwWOnciHTmkZmL12MwjOYSXJYXejrQEx3q_3FggPjnE_gQS5DrEcSsUVAoHaZM--L4ZjLW1js-VkcOVdtdx8cgfLs2GbytTfTSRmGpLQQq0zGqvdyjDKyTzxAKa15AR8xq-hd4Nvf8-T66FhDSUsXNevAdtf4QcVQX1r6RFjgh8BZyYum92PVvCpc67T9RaXFFSCuBvYyxKMWaWZL5ouQL_VWdmlPWlCG-WtDtltT4Xr6uoWPp0GFnGlhyXgt0nNUPn56nQvbJbEAEV-k55iIa-VW2BFaia55SY5JPFbsadGELpEeYAuc23N2z68ofU-jLcM3hvCKFcF8NmlPiYTKTgnRce8RSqhHSVjjOCoG8txhq9I1e1MMD252re7VCjTrWmqo-22SDjpjTaEuOUyCO3BRZCxnQ2lRYmlwppdNdZJZ8QYixGIm0F04Lx8cRPN2eNoz1M24zQm1ZpE9NtSLMdQt-27jH_JfMEImmcjdM2taEb4huw0UUz9L1uBdLEvKjQ7RNg_NiDFb--r_evkBH5GlSFTP8UDAbFazuHCI9cNXguza7K7--_cxOk-c8iTuLDuU25eEUPjjricao-PqKNDYCuajAWQtF_l-T3z2506ZgRuWPpgrCbthPWiaIRFxjdZWBFvTX7bI8RXK3Bjestxfr7Vb5B5gOChLWsMVvzuUweRwnP5rBfxNMPhTLn7RQG8utiG-NLah2y-68LkTNaq1feOb7xJ-CrTc1ai7M21LV0FOuLqdbCAb27uv_k5CbhJr_CPhfoZ9lpaP-CpY8V_HBwrfxnhLZtBWwZm84xD-PJPUY1J3BTxUf0sfwMhUj96KDmbZOH-FgdKP84rz1Rld1h11khXDTNsd3-gvMOx3PPBLC3Spj2nw8RlzC5q8-b2-cVrmdcSyNXB4FacwAcS5WpIq5deO9p80NTTdbgJTgxZ5Dt2oPLHUoRu2557LxBgkH-bMF2rFolPAmOmk6cYYStv24tGAYYAKgL4dt51UQnEr_9pm-dUtRY6rqcAjIGF_jzcxtQzAYp3BOBNo9LEvjQiCMr7emMp6Z9DQGthwXEoNG8enYgX6Mh9el4i97iuPjFpkqZ_TQ&isca=1
   name: Locaal AI / Contents Pal
   introTitle: "Contents Pal - the leading AI contents claims processing platform"
   # introMessage: [Contents Pal](https://contentspal.com) helps your teams create fast and accurate content inventories and valuation reports using simple apps and AI agents.
   publish: true
   navbar:
     - title: Status
-      href: /
+      href: /statuspage
     - title: Contents Pal
       href: https://contentspal.com
 
