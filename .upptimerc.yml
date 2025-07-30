@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://drive.google.com/u/0/drive-viewer/AKGpihZzySBn2EAUYYGEqNa_ItVaGiEx5YjYrwCsEvrTFyx7kbUsc4steMQQT1TJmNhkbWUqKBJ8me64Ca1vXPYxDKGXHqnCrDV7b38=s2560
   name: Locaal AI / Contents Pal
   introTitle: "Contents Pal - the leading AI contents claims processing platform"
-  introMessage: [Contents Pal](https://contentspal.com) helps your teams create fast and accurate content inventories and valuation reports using simple apps and AI agents.
+  # introMessage: [Contents Pal](https://contentspal.com) helps your teams create fast and accurate content inventories and valuation reports using simple apps and AI agents.
   publish: true
   navbar:
     - title: Status
