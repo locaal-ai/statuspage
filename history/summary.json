@@ -4,18 +4,20 @@
     "url": "https://www.contentspal.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.contentspal.com.ico",
     "slug": "contents-pal-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 176,
-    "timeWeek": 376,
-    "timeMonth": 340,
-    "timeYear": 326,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 328,
+    "timeDay": 310,
+    "timeWeek": 385,
+    "timeMonth": 343,
+    "timeYear": 328,
+    "dailyMinutesDown": {
+      "2025-09-26": 31
+    }
   },
   {
     "name": "Contents Pal Application",
